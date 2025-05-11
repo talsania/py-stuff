@@ -1,1 +1,1 @@
-> python learning with mini projects
+python topics
